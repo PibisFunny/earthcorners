@@ -1,0 +1,38 @@
+#autoplay-cover {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #000000;
+	z-index: 10005;
+
+	text-align: center;
+	transition: opacity 1s;
+}
+
+#autoplay-cover.hide {
+	opacity: 0;
+}
+
+body {
+cursor: url("img/cursor.png")11 11, auto;
+}
+
+html {
+cursor: url("img/cursor.png")11 11, auto;
+}
+
+a {
+cursor: url("img/cursora.png")11 11, auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+}
