@@ -16,15 +16,15 @@
 }
 
 body {
-cursor: url("img/cursor.png")11 11, auto;
+cursor: url('img/cursor.png'), auto;
 }
 
 html {
-cursor: url("img/cursor.png")11 11, auto;
+cursor: url('img/cursor.png'), auto;
 }
 
 a {
-cursor: url("img/cursora.png")11 11, auto;
+cursor: url('img/cursora.png'), auto;
 }
 
 .center {
