@@ -15,18 +15,6 @@
 	opacity: 0;
 }
 
-body {
-cursor: url('img/cursor.png'), auto;
-}
-
-html {
-cursor: url('img/cursor.png'), auto;
-}
-
-a {
-cursor: url('img/cursora.png'), auto;
-}
-
 .center {
   display: block;
   margin-left: auto;
