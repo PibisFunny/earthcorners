@@ -21,6 +21,11 @@
   margin-right: auto;
 }
 
+h1 {
+  text-align: center;
+	color: #ffffff;
+}
+
 p {
   text-align: center;
 	color: #ffffff;
