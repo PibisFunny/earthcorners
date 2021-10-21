@@ -21,6 +21,10 @@
   margin-right: auto;
 }
 
+a {
+    display: block;
+}
+
 h1 {
   text-align: center;
 	color: #ffffff;
