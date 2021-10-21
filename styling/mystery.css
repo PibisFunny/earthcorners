@@ -1,0 +1,32 @@
+#autoplay-mys {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ffffff;
+	z-index: 10005;
+
+	text-align: center;
+	transition: opacity 1s;
+}
+
+#autoplay-mys.hide {
+	opacity: 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+	color: #000000;
+}
+
+p {
+  text-align: center;
+	color: #000000;
+}
