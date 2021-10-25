@@ -15,14 +15,15 @@
         count++;
       }
       else {
-        if (confirm("Authorized. Proceed? (This may induce seizures.)"));
-        {
-          window.location = "https://EarthCorners.net/portal";
-        }
-        else
-        {
-          window.location = "https://google.com";
-        }
+
+var answer = window.confirm("Authorized. Proceed? (This may induce seizures.)");
+if (answer) {
+    window.location = "https://EarthCorners.net/portal";
+}
+else {
+    window.location = "https://google.com";
+}
+
       }
     };
     </script>
