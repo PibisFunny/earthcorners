@@ -15,7 +15,12 @@
         count++;
       }
       else {
-        window.location = "https://EarthCorners.net/portal";
+        confirm("Authorized. Proceed? (This may induce seizures.)");
+        if (confirmAction) {
+          window.location = "https://EarthCorners.net/portal";
+        } else {
+          window.location = "https://google.com";
+        }
       }
     };
     </script>
