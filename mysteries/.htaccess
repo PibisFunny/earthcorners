@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Mysterious Protection"
-AuthUserFile /mysteries/.htpasswd
-require valid-user
