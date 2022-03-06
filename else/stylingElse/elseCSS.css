@@ -10,6 +10,12 @@ h1 {
 	background-color: #000000;
 }
 
+a {
+  text-align: center;
+	color: #99e4ff;
+	background-color: #000000;
+}
+
 p {
   text-align: center;
 	color: #ffffff;
